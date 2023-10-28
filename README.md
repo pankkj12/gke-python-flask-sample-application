@@ -1,4 +1,4 @@
-# deveops hands on class  edit 1#
+# deveops hands on class  edits 1#
 
 Build the image using the following command
 

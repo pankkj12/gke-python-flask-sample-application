@@ -1,4 +1,4 @@
-# Simple Python Flask Dockerized Application #
+# deveops hands on class #
 
 Build the image using the following command
 
